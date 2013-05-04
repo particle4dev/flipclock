@@ -11,21 +11,8 @@ See [http://particle4dev.github.io/flipclock], or the bundled `index.html` file.
 
 ## Features
 
-  * small size and fast download time
-  * will not slow down or pause your page while tweets are loading
-  * display up to 100 tweets, as permitted by the twitter search api
-  * display tweets from a twitter search, or from your own feed
-  * optional verb tense matching, for human readable tweets
-  * optionally display your avatar
-  * optionally display tweets from multiple accounts!
-  * automatic linking of @replies to users’ twitter page
-  * automatic linking of URLs
-  * automatic linking of #hashtags, to a twitter search of all your tags
-  * converts <3 to a css styleable ♥ (we ♥ hearts)
-  * customize the style with your own stylesheet or with other jquery plugins
-  * customize the layout with a user-defined template function
-  * supports RequireJS and other AMD-compatible javascript loaders
-  * available on [cdnjs](http://cdnjs.com)
+  * asdhas
+ 
 
 ## Usage
 
