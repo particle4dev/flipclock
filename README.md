@@ -13,7 +13,7 @@ See [http://particle4dev.github.io/flipclock], or the bundled `index.html` file.
 
   * asdhas
  
-
+<!--
 ## Usage
 
 1. Get [JQuery](http://jquery.com/). In these examples, we use [Google's AJAX Libraries API](http://code.google.com/apis/ajaxlibs/).
@@ -63,3 +63,4 @@ Report bugs at http://github.com/seaofclouds/tweet/issues
 <hr>
 
 [![](http://api.coderwall.com/purcell/endorsecount.png)](http://coderwall.com/purcell)
+-->
